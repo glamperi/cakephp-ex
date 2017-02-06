@@ -4,6 +4,7 @@
 
 
 
+
 <html>
 <head>
   <title>Canary A - Welcome to your CakePHP application on OpenShift</title>
